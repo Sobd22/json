@@ -1,0 +1,11 @@
+ [
+    {
+        "name": "Тестовый ТЕКСТ 1",
+        "description": "Это тестовый текст 1...",
+        "price": "ЖАНР ТУТ 1",
+        "imageUrl": "url_изображения_1",
+        "bigImageUrl": "url_большого_изображения_1",
+        "link": "https://telegra.ph/Testovaya-shtuchka-11-13-2",
+        "textColor": "RED"
+    }
+ ]
