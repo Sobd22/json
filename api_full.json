@@ -1,11 +1,16 @@
- [
-    {
-        "name": "Тестовый ТЕКСТ 1",
-        "description": "Это тестовый текст 1...",
-        "price": "ЖАНР ТУТ 1",
-        "imageUrl": "https://d33wubrfki0l68.cloudfront.net/fc3df3cfd8ca06a6ab38ba5b8d7a53e7fc5cbb7d/c37cc/_next/static/images/banner-thumb-44418604021e9b0ee9ceee6236491573.png",
-        "bigImageUrl": "https://d33wubrfki0l68.cloudfront.net/fc3df3cfd8ca06a6ab38ba5b8d7a53e7fc5cbb7d/c37cc/_next/static/images/banner-thumb-44418604021e9b0ee9ceee6236491573.png",
-        "link": "https://telegra.ph/Testovaya-shtuchka-11-13-2",
-        "textColor": "RED"
-    }
- ]
+[
+  {
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "laung": "EN",
+    "image": "https://gas-kvas.com/grafic/uploads/posts/2023-10/1696442942_gas-kvas-com-p-kartinki-ataka-titanov-18.jpg",
+    "url": "https://blackrussia.online"
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "Описание: тест",
+    "laung": "RU",
+    "image": "https://gas-kvas.com/grafic/uploads/posts/2023-10/1696442942_gas-kvas-com-p-kartinki-ataka-titanov-18.jpg",
+    "url": "https://blackrussia.online"
+  }
+]
