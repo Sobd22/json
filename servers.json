@@ -1,14 +1,14 @@
 [
     {
-      "dopname": "X2",
-      "maxonline": 350,
-      "name": "STRIX RP",
-      "online": 52
+      "dopname": "SERVER 23",
+      "maxonline": 505,
+      "name": "TEST RP",
+      "online": 502
     },
     {
-      "dopname": "X2",
-      "maxonline": 50,
+      "dopname": "SERCER 32",
+      "maxonline": 1000,
       "name": "TEST RP",
-      "online": 2
+      "online": 900
     }
   ]
