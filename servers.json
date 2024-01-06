@@ -1,14 +1,10 @@
 [
     {
-      "dopname": "SERVER 23",
-      "maxonline": 1000,
-      "name": "TEST RP",
-      "online": 502
-    },
-    {
-      "dopname": "SERCER 32",
-      "maxonline": 1000,
-      "name": "TEST RP",
-      "online": 900
+      "ip": "141.95.234.17",
+      "port": 2409,
+      "x2": true,
+      "name": "Colardo",
+      "online": 0,
+      "maxonline": 1000
     }
-  ]
+ ]
