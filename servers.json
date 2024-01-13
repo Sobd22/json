@@ -1,10 +1,12 @@
 [
     {
-      "ip": "141.95.234.17",
-      "port": 2409,
-      "x2": true,
-      "name": "Colardo",
-      "online": 0,
-      "maxonline": 50
+      "color": "ff368418",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #1",
+      "online": 1000,
+      "recommend": true,
+      "edgar_host": "141.95.234.17",
+      "edgar_port": 1785,
+      "id": 1
     }
- ]
+]
