@@ -1,12 +1,34 @@
 [
-    {
-      "color": "ff368418",
-      "maxonline": 1000,
-      "name": "МАТРЕШКА MOBILE #1",
-      "online": 1000,
-      "recommend": true,
-      "edgar_host": "141.95.234.17",
-      "edgar_port": 1785,
-      "id": 1
-    }
+{
+  "number_server": 1,
+  "name_server": "FLIN CRMP #1",
+  "online": 100,
+  "server_online": true,
+  "ping": 20,
+  "max_online": 150
+},
+{
+  "number_server": 2,
+  "name_server": "FLIN CRMP #2",
+  "online": 100,
+  "server_online": true,
+  "ping": 7,
+  "max_online": 150
+},
+{
+  "number_server": 3,
+  "name_server": "FLIN CRMP #3",
+  "online": 149,
+  "server_online": true,
+  "ping": 4,
+  "max_online": 150
+},
+{
+  "number_server": 4,
+  "name_server": "FLIN CRMP #4",
+  "online": 10,
+  "server_online": true,
+  "ping": 15,
+  "max_online": 150
+},
 ]
