@@ -11,7 +11,7 @@
   "number_server": "2",
   "name_server": "FLIN CRMP #2",
   "online": "100",
-  "server_online": true,
+  "server_online": false,
   "ping": "7",
   "max_online": "150"
 },
