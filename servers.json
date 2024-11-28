@@ -1,34 +1,13 @@
 [
-{
-  "number_server": "1",
-  "name_server": "FLIN CRMP #1",
-  "online": "100",
-  "server_online": true,
-  "ping": "20",
-  "max_online": "150"
-},
-{
-  "number_server": "2",
-  "name_server": "FLIN CRMP #2",
-  "online": "100",
-  "server_online": true,
-  "ping": "7",
-  "max_online": "150"
-},
-{
-  "number_server": "3",
-  "name_server": "FLIN CRMP #3",
-  "online": "149",
-  "server_online": true,
-  "ping": "4",
-  "max_online": "150"
-},
-{
-  "number_server": "4",
-  "name_server": "FLIN CRMP #4",
-  "online": "10",
-  "server_online": true,
-  "ping": "15",
-  "max_online": "150"
-}
-]
+    {
+      "color": "000000",
+      "dopname": "",
+      "x2": true,
+      "maxonline": 100,
+      "name": "RED",
+      "online": 100,
+      "host": "146.59.209.106",
+      "port": 1429
+    }
+  ]
+
